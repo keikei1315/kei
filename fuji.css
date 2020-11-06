@@ -305,7 +305,7 @@ a{
   background: black;
   position:fixed;
   top:0;
-  right:950px;
+  left:950px;
   z-index: 2;
 }
 
